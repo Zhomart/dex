@@ -4,10 +4,10 @@ export const tarn = dex_tarn;
 import dex_inherits from "https://dev.jspm.io/inherits@2.0";
 export const inherits = dex_inherits;
 
-import dex_events from "https://deno.land/std/node/events.ts";
+import dex_events from "https://deno.land/std@0.177.0/node/events.ts";
 export const events = dex_events;
 
-import dex_util from "https://deno.land/std/node/util.ts";
+import dex_util from "https://deno.land/std@0.177.0/node/util.ts";
 export const util = dex_util;
 
 import dex_lodash from "https://dev.jspm.io/lodash@4";
@@ -25,14 +25,14 @@ export const uuid = dex_uuid;
 import * as dex_path from "https://deno.land/std/path/mod.ts";
 export const path = dex_path;
 
-import dex_assert from "https://deno.land/std/node/assert.ts";
+import dex_assert from "https://deno.land/std@0.177.0/node/assert.ts";
 export const assert = dex_assert;
 
-import dex_url from "https://deno.land/std/node/url.ts";
+import dex_url from "https://deno.land/std@0.177.0/node/url.ts";
 export const url = dex_url;
 
 import dex_pgconn from "https://dev.jspm.io/pg-connection-string@2.5.0";
 export const pgconn = dex_pgconn;
 
-import dex_stream from "https://deno.land/std/node/stream.ts";
+import dex_stream from "https://deno.land/std@0.177.0/node/stream.ts";
 export const stream = dex_stream;
